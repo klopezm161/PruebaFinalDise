@@ -17,7 +17,7 @@ namespace MulticentroProyectoFinal.GUI
         {
             InitializeComponent();
         }
-        //Boton
+        //Boton Prueba 2
 
         private void BtnSalirFacturacionBuscar_Click(object sender, EventArgs e)
         {
