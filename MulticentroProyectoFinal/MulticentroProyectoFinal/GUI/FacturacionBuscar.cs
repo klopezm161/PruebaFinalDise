@@ -10,12 +10,14 @@ using System.Windows.Forms;
 
 namespace MulticentroProyectoFinal.GUI
 {
+    
     public partial class FacturacionBuscar : Form
     {
         public FacturacionBuscar()
         {
             InitializeComponent();
         }
+        //Boton
 
         private void BtnSalirFacturacionBuscar_Click(object sender, EventArgs e)
         {
