@@ -31,8 +31,8 @@ namespace MulticentroProyectoFinal
 
         private void BtnIngresarMenuProductos_Click(object sender, EventArgs e)
         {
-            ProductoActualizacion productoActualizar = new ProductoActualizacion();
-            productoActualizar.Show();
+            ProductoIngreso productoIngresar = new ProductoIngreso();
+            productoIngresar.Show();
             this.Dispose();
         }
 

@@ -58,7 +58,7 @@
             this.label1.Location = new System.Drawing.Point(40, 29);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(218, 27);
+            this.label1.Size = new System.Drawing.Size(176, 22);
             this.label1.TabIndex = 0;
             this.label1.Text = "PRODUCTO NUEVO";
             // 
@@ -69,7 +69,7 @@
             this.label2.Location = new System.Drawing.Point(36, 91);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(94, 25);
+            this.label2.Size = new System.Drawing.Size(76, 20);
             this.label2.TabIndex = 1;
             this.label2.Text = "Nombre:";
             // 
@@ -80,7 +80,7 @@
             this.label3.Location = new System.Drawing.Point(36, 134);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(88, 25);
+            this.label3.Size = new System.Drawing.Size(70, 20);
             this.label3.TabIndex = 2;
             this.label3.Text = "Código:";
             // 
@@ -91,7 +91,7 @@
             this.label4.Location = new System.Drawing.Point(36, 180);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(80, 25);
+            this.label4.Size = new System.Drawing.Size(64, 20);
             this.label4.TabIndex = 3;
             this.label4.Text = "Precio:";
             // 
@@ -102,7 +102,7 @@
             this.label5.Location = new System.Drawing.Point(36, 219);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(106, 25);
+            this.label5.Size = new System.Drawing.Size(86, 20);
             this.label5.TabIndex = 4;
             this.label5.Text = "Cantidad:";
             // 
@@ -113,7 +113,7 @@
             this.label6.Location = new System.Drawing.Point(36, 260);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(62, 25);
+            this.label6.Size = new System.Drawing.Size(48, 20);
             this.label6.TabIndex = 5;
             this.label6.Text = "Tipo:";
             // 
@@ -124,7 +124,7 @@
             this.label7.Location = new System.Drawing.Point(36, 302);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(79, 25);
+            this.label7.Size = new System.Drawing.Size(63, 20);
             this.label7.TabIndex = 6;
             this.label7.Text = "Marca:";
             // 
@@ -135,7 +135,7 @@
             this.label8.Location = new System.Drawing.Point(36, 340);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(118, 25);
+            this.label8.Size = new System.Drawing.Size(95, 20);
             this.label8.TabIndex = 7;
             this.label8.Text = "Proveedor:";
             // 
@@ -168,7 +168,7 @@
             this.CBoxProveedorProductoNuevo.Location = new System.Drawing.Point(250, 342);
             this.CBoxProveedorProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.CBoxProveedorProductoNuevo.Name = "CBoxProveedorProductoNuevo";
-            this.CBoxProveedorProductoNuevo.Size = new System.Drawing.Size(298, 28);
+            this.CBoxProveedorProductoNuevo.Size = new System.Drawing.Size(298, 24);
             this.CBoxProveedorProductoNuevo.TabIndex = 11;
             // 
             // CBoxMarcaProductoNuevo
@@ -177,7 +177,7 @@
             this.CBoxMarcaProductoNuevo.Location = new System.Drawing.Point(250, 304);
             this.CBoxMarcaProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.CBoxMarcaProductoNuevo.Name = "CBoxMarcaProductoNuevo";
-            this.CBoxMarcaProductoNuevo.Size = new System.Drawing.Size(298, 28);
+            this.CBoxMarcaProductoNuevo.Size = new System.Drawing.Size(298, 24);
             this.CBoxMarcaProductoNuevo.TabIndex = 12;
             // 
             // CboxTipoProductoNuevo
@@ -186,7 +186,7 @@
             this.CboxTipoProductoNuevo.Location = new System.Drawing.Point(250, 262);
             this.CboxTipoProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.CboxTipoProductoNuevo.Name = "CboxTipoProductoNuevo";
-            this.CboxTipoProductoNuevo.Size = new System.Drawing.Size(298, 28);
+            this.CboxTipoProductoNuevo.Size = new System.Drawing.Size(298, 24);
             this.CboxTipoProductoNuevo.TabIndex = 13;
             // 
             // txtCantidadProductoNuevo
@@ -194,7 +194,7 @@
             this.txtCantidadProductoNuevo.Location = new System.Drawing.Point(250, 219);
             this.txtCantidadProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.txtCantidadProductoNuevo.Name = "txtCantidadProductoNuevo";
-            this.txtCantidadProductoNuevo.Size = new System.Drawing.Size(298, 26);
+            this.txtCantidadProductoNuevo.Size = new System.Drawing.Size(298, 22);
             this.txtCantidadProductoNuevo.TabIndex = 14;
             // 
             // txtPrecioProductoNuevo
@@ -202,7 +202,7 @@
             this.txtPrecioProductoNuevo.Location = new System.Drawing.Point(250, 180);
             this.txtPrecioProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.txtPrecioProductoNuevo.Name = "txtPrecioProductoNuevo";
-            this.txtPrecioProductoNuevo.Size = new System.Drawing.Size(298, 26);
+            this.txtPrecioProductoNuevo.Size = new System.Drawing.Size(298, 22);
             this.txtPrecioProductoNuevo.TabIndex = 15;
             // 
             // txtCodigoProductoNuevo
@@ -210,7 +210,7 @@
             this.txtCodigoProductoNuevo.Location = new System.Drawing.Point(250, 134);
             this.txtCodigoProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.txtCodigoProductoNuevo.Name = "txtCodigoProductoNuevo";
-            this.txtCodigoProductoNuevo.Size = new System.Drawing.Size(298, 26);
+            this.txtCodigoProductoNuevo.Size = new System.Drawing.Size(298, 22);
             this.txtCodigoProductoNuevo.TabIndex = 16;
             // 
             // txtNombreProductoNuevo
@@ -218,12 +218,12 @@
             this.txtNombreProductoNuevo.Location = new System.Drawing.Point(250, 91);
             this.txtNombreProductoNuevo.Margin = new System.Windows.Forms.Padding(4);
             this.txtNombreProductoNuevo.Name = "txtNombreProductoNuevo";
-            this.txtNombreProductoNuevo.Size = new System.Drawing.Size(298, 26);
+            this.txtNombreProductoNuevo.Size = new System.Drawing.Size(298, 22);
             this.txtNombreProductoNuevo.TabIndex = 17;
             // 
             // ProductoIngreso
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(618, 545);

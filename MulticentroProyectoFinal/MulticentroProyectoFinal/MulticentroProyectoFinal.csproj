@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConexionesBasicasAbrirCerrarBD.cs" />
     <Compile Include="GUI\FacturacionesBusqueda.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -130,6 +132,12 @@
     <Compile Include="GUI\Productos.Designer.cs">
       <DependentUpon>Productos.cs</DependentUpon>
     </Compile>
+    <Compile Include="IActualizarElementoBD.cs" />
+    <Compile Include="IActualizarBuscarAgregarBD.cs" />
+    <Compile Include="IAgregarElementoBD.cs" />
+    <Compile Include="IBorrarElementoBD.cs" />
+    <Compile Include="IBuscarElementoBD.cs" />
+    <Compile Include="IConexionesBasicasAbrirCerrarBD.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\FacturacionesBusqueda.resx">
