@@ -248,7 +248,6 @@
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ProductoIngreso";
             this.Text = "ProductoIngreso";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.ProductoIngreso_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

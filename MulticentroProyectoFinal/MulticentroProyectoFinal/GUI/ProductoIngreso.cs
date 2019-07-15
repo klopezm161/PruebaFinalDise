@@ -30,11 +30,7 @@ namespace MulticentroProyectoFinal
             this.Close();
         }
 
-        private void ProductoIngreso_FormClosed(object sender, FormClosedEventArgs e)
-        {
-            Application.Exit();
-        }
-
+       
         
     }
 }

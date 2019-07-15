@@ -16,14 +16,33 @@ namespace MulticentroProyectoFinal
         {
             InitializeComponent();
         }
+        public string getNombre()
+        {
+            return txtNombreServiciosActualizacion.Text;
+        }
+
+        public string getCantidad()
+        {
+            return txtCantidadServiciosActualizacion.Text;
+
+        }
+
+        public string getPrecio()
+        {
+            return txtPrecioServiciosActualizacion.Text;
+        }
+        public string getCodigoParaActualizar()
+        {
+            return TxtCodAActualizarActualizacionServicios.Text;
+        }
 
         private void BtnActualizar_Click(object sender, EventArgs e)
         {
-            this.Dispose();
-            Servicios frm = new Servicios();
-            frm.Show();
+            ServiciosActualizacionBD servicioActualizacion = new ServiciosActualizacionBD();
+            servicioActualizacion.Actualizar();           
 
         }
+
 
         private void BtnSalirServiciosActualizacion_Click(object sender, EventArgs e)
         {

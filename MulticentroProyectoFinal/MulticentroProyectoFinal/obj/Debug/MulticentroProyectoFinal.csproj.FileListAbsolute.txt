@@ -63,8 +63,6 @@ C:\Users\sergi\Desktop\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Deb
 C:\Users\sergi\Desktop\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.csproj.CoreCompileInputs.cache
 C:\Users\sergi\Desktop\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.exe
 C:\Users\sergi\Desktop\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.pdb
-C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\bin\Debug\MulticentroProyectoFinal.exe.config
-C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\bin\Debug\MulticentroProyectoFinal.exe
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\bin\Debug\MulticentroProyectoFinal.pdb
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.csprojAssemblyReference.cache
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.FacturacionesBusquesa.resources
@@ -84,5 +82,7 @@ C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\Multicen
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.Properties.Resources.resources
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.csproj.GenerateResource.cache
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.csproj.CoreCompileInputs.cache
-C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.exe
 C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.pdb
+C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\bin\Debug\MulticentroProyectoFinal.exe.config
+C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\bin\Debug\MulticentroProyectoFinal.exe
+C:\Users\karla\Desktop\COMPUTACION\FinalDiseno\MulticentroProyectoFinal\MulticentroProyectoFinal\obj\Debug\MulticentroProyectoFinal.exe
